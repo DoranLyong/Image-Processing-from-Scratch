@@ -7,7 +7,7 @@ Study image processing without library in Python
 
 
 #### 5. Histogram processing 
-* Image histogra (PDF/CDF)
+* Image histogram (PDF/CDF)
 * Histogram equalization [Global]
 * Adaptive histogram equalization
 * Histogram matching 
